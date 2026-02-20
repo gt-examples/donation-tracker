@@ -1,0 +1,177 @@
+{
+  "04732d1f4b57711f": "Apoyo a escuelas y becas para niñas y niños en regiones en desarrollo de todo el mundo.",
+  "09da24a422e8a0b0": "Sigue el progreso de donaciones en campañas activas. Todos los montos, fechas y números están formateados según tu configuración regional.",
+  "0d9bb5fc27d0e312": "Campañas activas",
+  "165de5dccdc5cf91": [
+    {
+      "c": [
+        {
+          "c": "Total Recaudado",
+          "i": 2,
+          "t": "p"
+        },
+        {
+          "c": {
+            "i": 4,
+            "k": "_gt_cost_4",
+            "v": "c"
+          },
+          "i": 3,
+          "t": "p"
+        },
+        {
+          "c": [
+            "de ",
+            {
+              "i": 6,
+              "k": "_gt_cost_6",
+              "v": "c"
+            },
+            " objetivo"
+          ],
+          "i": 5,
+          "t": "p"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Total de Donantes",
+          "i": 8,
+          "t": "p"
+        },
+        {
+          "c": {
+            "i": 10,
+            "k": "_gt_n_10",
+            "v": "n"
+          },
+          "i": 9,
+          "t": "p"
+        },
+        {
+          "c": [
+            "en ",
+            {
+              "i": 12,
+              "k": "_gt_n_12",
+              "v": "n"
+            },
+            " campañas"
+          ],
+          "i": 11,
+          "t": "p"
+        }
+      ],
+      "i": 7,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Progreso General",
+          "i": 14,
+          "t": "p"
+        },
+        {
+          "i": 15,
+          "t": "DonationProgress"
+        },
+        {
+          "c": [
+            {
+              "i": 17,
+              "k": "_gt_n_17",
+              "v": "n"
+            },
+            " financiado"
+          ],
+          "i": 16,
+          "t": "p"
+        }
+      ],
+      "i": 13,
+      "t": "div"
+    }
+  ],
+  "457449223a685236": "Resumen de la campaña",
+  "468a0c3187784a73": "Fondo Global para la Educación",
+  "4a805e0d6171f716": "Seguimiento de donaciones",
+  "4c3f507034d92ada": "Iniciativa de Agua Potable",
+  "54ad551340a6a7b1": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "k": "_gt_n_3",
+            "v": "n"
+          },
+          " donantes"
+        ],
+        "i": 2,
+        "t": "span"
+      },
+      {
+        "c": [
+          {
+            "i": 5,
+            "k": "_gt_n_5",
+            "v": "n"
+          },
+          " financiado"
+        ],
+        "i": 4,
+        "t": "span"
+      },
+      {
+        "c": [
+          "Fecha límite: ",
+          {
+            "i": 7,
+            "k": "_gt_date_7",
+            "v": "d"
+          }
+        ],
+        "i": 6,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "6bf73d4c7b8c5695": [
+    {
+      "c": {
+        "i": 2,
+        "k": "_gt_cost_2",
+        "v": "c"
+      },
+      "i": 1,
+      "t": "p"
+    },
+    {
+      "c": [
+        "de ",
+        {
+          "i": 4,
+          "k": "_gt_cost_4",
+          "v": "c"
+        }
+      ],
+      "i": 3,
+      "t": "p"
+    }
+  ],
+  "7c34061752821be8": "Esta es una aplicación de ejemplo creada con General Translation para demostrar la internacionalización. Todas las campañas y datos mostrados son ficticios.",
+  "9bebcc7da987d1ef": "Proyecto de Conservación de la Vida Silvestre",
+  "9c85d839a16e4c26": "Haz seguimiento de donaciones a organizaciones benéficas, del progreso de objetivos, recuentos de donantes y fechas límite de campañas en varios idiomas.",
+  "a11976ef32ec8f61": "Protección de especies en peligro de extinción y preservación de hábitats críticos en todo el mundo.",
+  "bf2bdb3664ab3e4b": "Donation Tracker | Traducción general",
+  "ca12ace89e2b223d": "Proporcionar acceso a agua potable segura en comunidades desatendidas de tres continentes.",
+  "d405a9bc8cea777e": "Financiación de respuestas rápidas para comunidades afectadas por desastres naturales y emergencias.",
+  "ede9b4d9f2065f16": "Red de Ayuda ante Desastres"
+}

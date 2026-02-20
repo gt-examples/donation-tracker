@@ -1,0 +1,176 @@
+{
+  "04732d1f4b57711f": "Soutenir des écoles et des programmes de bourses pour les enfants dans les régions en développement du monde entier.",
+  "09da24a422e8a0b0": "Suivez la progression des dons pour les campagnes actives. Tous les montants, dates et chiffres sont formatés selon votre paramètre régional.",
+  "0d9bb5fc27d0e312": "Campagnes en cours",
+  "165de5dccdc5cf91": [
+    {
+      "c": [
+        {
+          "c": "Total collecté",
+          "i": 2,
+          "t": "p"
+        },
+        {
+          "c": {
+            "i": 4,
+            "k": "_gt_cost_4",
+            "v": "c"
+          },
+          "i": 3,
+          "t": "p"
+        },
+        {
+          "c": [
+            "sur un objectif de ",
+            {
+              "i": 6,
+              "k": "_gt_cost_6",
+              "v": "c"
+            }
+          ],
+          "i": 5,
+          "t": "p"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Total des donateurs",
+          "i": 8,
+          "t": "p"
+        },
+        {
+          "c": {
+            "i": 10,
+            "k": "_gt_n_10",
+            "v": "n"
+          },
+          "i": 9,
+          "t": "p"
+        },
+        {
+          "c": [
+            "sur ",
+            {
+              "i": 12,
+              "k": "_gt_n_12",
+              "v": "n"
+            },
+            " campagnes"
+          ],
+          "i": 11,
+          "t": "p"
+        }
+      ],
+      "i": 7,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Progression globale",
+          "i": 14,
+          "t": "p"
+        },
+        {
+          "i": 15,
+          "t": "DonationProgress"
+        },
+        {
+          "c": [
+            {
+              "i": 17,
+              "k": "_gt_n_17",
+              "v": "n"
+            },
+            " financé"
+          ],
+          "i": 16,
+          "t": "p"
+        }
+      ],
+      "i": 13,
+      "t": "div"
+    }
+  ],
+  "457449223a685236": "Vue d’ensemble de la campagne",
+  "468a0c3187784a73": "Fonds mondial pour l’éducation",
+  "4a805e0d6171f716": "Suivi des dons",
+  "4c3f507034d92ada": "Initiative pour l’eau potable",
+  "54ad551340a6a7b1": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "k": "_gt_n_3",
+            "v": "n"
+          },
+          " donateurs"
+        ],
+        "i": 2,
+        "t": "span"
+      },
+      {
+        "c": [
+          {
+            "i": 5,
+            "k": "_gt_n_5",
+            "v": "n"
+          },
+          " financé"
+        ],
+        "i": 4,
+        "t": "span"
+      },
+      {
+        "c": [
+          "Échéance : ",
+          {
+            "i": 7,
+            "k": "_gt_date_7",
+            "v": "d"
+          }
+        ],
+        "i": 6,
+        "t": "span"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "6bf73d4c7b8c5695": [
+    {
+      "c": {
+        "i": 2,
+        "k": "_gt_cost_2",
+        "v": "c"
+      },
+      "i": 1,
+      "t": "p"
+    },
+    {
+      "c": [
+        "sur ",
+        {
+          "i": 4,
+          "k": "_gt_cost_4",
+          "v": "c"
+        }
+      ],
+      "i": 3,
+      "t": "p"
+    }
+  ],
+  "7c34061752821be8": "Il s'agit d'un exemple d'application développée avec General Translation pour illustrer l'internationalisation. Toutes les campagnes et données présentées sont fictives.",
+  "9bebcc7da987d1ef": "Projet de conservation de la faune sauvage",
+  "9c85d839a16e4c26": "Suivez les dons aux associations, la progression des objectifs, le nombre de donateurs et les dates limites des campagnes dans plusieurs langues.",
+  "a11976ef32ec8f61": "Protéger les espèces menacées et préserver les habitats critiques à travers le monde.",
+  "bf2bdb3664ab3e4b": "Suivi des dons | Traduction générique",
+  "ca12ace89e2b223d": "Assurer l’accès à une eau potable salubre dans des communautés mal desservies sur trois continents.",
+  "d405a9bc8cea777e": "Financer des réponses rapides pour les communautés touchées par des catastrophes naturelles et des situations d’urgence.",
+  "ede9b4d9f2065f16": "Réseau d’aide en cas de catastrophe"
+}
